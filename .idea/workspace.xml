@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7da753d-c173-4975-8ecd-38a1a7f88a73" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/_1JavaSE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/resource/basicDataType.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/_1HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/知识点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/resource/zhuanhaun.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/知识点.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/知识点.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="720">
-                <caret line="114" column="8" selection-start-line="114" selection-start-column="8" selection-end-line="114" selection-end-column="8" />
+              <first_editor relative-caret-position="485">
+                <caret line="158" lean-forward="true" selection-start-line="158" selection-end-line="158" />
               </first_editor>
               <second_editor />
             </state>
@@ -135,6 +132,15 @@
               <item name="JavaSE1_1" type="462c0819:PsiDirectoryNode" />
               <item name="_1basic" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaEEStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaEEStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSE1_1" type="462c0819:PsiDirectoryNode" />
+              <item name="_1basic" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -225,12 +231,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553231081575</updated>
-      <workItem from="1553231083716" duration="2230000" />
+      <workItem from="1553231083716" duration="2729000" />
     </task>
+    <task id="LOCAL-00001" summary="basic">
+      <created>1553233455251</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553233455251</updated>
+    </task>
+    <task id="LOCAL-00002" summary="basic">
+      <created>1553233496425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553233496425</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2230000" />
+    <option name="totallyTimeSpent" value="2729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-186" y="-1057" width="1920" height="1057" extended-state="0" />
@@ -247,7 +268,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32916668" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.185836" />
@@ -273,6 +294,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basic" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -294,8 +319,8 @@
     <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/知识点.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="720">
-            <caret line="114" column="8" selection-start-line="114" selection-start-column="8" selection-end-line="114" selection-end-column="8" />
+          <first_editor relative-caret-position="485">
+            <caret line="158" lean-forward="true" selection-start-line="158" selection-end-line="158" />
           </first_editor>
           <second_editor />
         </state>
