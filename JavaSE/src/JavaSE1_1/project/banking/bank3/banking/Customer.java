@@ -1,0 +1,29 @@
+package JavaSE1_1.project.banking.bank3.banking;
+
+public class Customer {
+    private String firstName;
+    private String lastname;
+    private Account account;
+
+    public Customer(String firstName, String lastname) {
+        this.firstName = firstName;
+        this.lastname = lastname;
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getLastname() {
+        return lastname;
+    }
+
+    public Account getAccount() {
+        return account;
+    }
+
+    public void setAccount(Account acct) {
+        this.account = acct;
+    }
+
+}
