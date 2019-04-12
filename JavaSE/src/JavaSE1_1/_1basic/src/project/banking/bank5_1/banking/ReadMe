@@ -1,0 +1,17 @@
+实验目的:
+继承、多态、方法的重写。
+说 明:
+修改 SavingAccount 类
+1.仿照练习 1“Account 类的两个子类”一节实现 SavingsAccount 类。
+2.SavingAccount 类必须扩展 Account 类。
+3.该类必须包含一个类型为 double 的 interestRate 属性
+4.该类必须包括一个带有两个参数(balance 和 interest_rate)的公有构造器。 该构造器必须通过调用 super(balance)来将 balance 参数传递给父类构造 器修改 CheckingAccount 类
+
+1.仿照练习 1“Account 类的两个子类”一节实现 CheckingAccount 类。
+2.CheckingAccount 类必须扩展 Account 类
+3.该类必须包括一个关联属性，称作 protectedBy，表示透支保护。该属性的 类型为 SavingAccount，缺省值必须是 null。除此之外该类没有其他的数据属 性。
+4.该类必须包括一个带有参数(balance)的公有构造器，该构造器必须通过调 用 super(balance)将 balance 参数传递到父类构造器。
+
+ 5. 修 改 构 造 器 为 CheckingAccount(double balance,SavingAccount protect)构造器。该构造器必须通过调用 super(balance)将 balance 参数 传递给父类构造器。
+
+  6. CheckingAccount 类必须覆盖 withdraw 方法。该类必须执行下面的检查: 如果当前余额足够弥补取款 amount，则正常进行。如果不够弥补但是存在透支 保护则尝试用储蓄账户来弥补这个差值(balance-amount)。如果后一个交易 失败，则整个交易一定失败，但余额未受影响。
