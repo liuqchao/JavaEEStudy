@@ -1,26 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7da753d-c173-4975-8ecd-38a1a7f88a73" name="Default" comment="" />
+    <list default="true" id="f7da753d-c173-4975-8ecd-38a1a7f88a73" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/src/RREADME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/resource/basicDataType.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/resource/zhuanhaun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/_1HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/基础知识点.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/src/JavaSE/基础知识点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank1/ReadMe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank1/banking/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank1/banking/TestBanking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank2/ReadMe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank2/banking/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank2/banking/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank2/banking/TestBanking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank3/banking/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank3/banking/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank3/banking/ReadMe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank3/banking/TestBanking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank4/banking/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank4/banking/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank4/banking/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank4/banking/ReadMe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank4/banking/TestBanking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_0/banking/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_0/banking/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_0/banking/CheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_0/banking/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_0/banking/ReadMe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_0/banking/SavingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_0/banking/TestBanking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_1/banking/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_1/banking/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_1/banking/CheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_1/banking/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_1/banking/ReadMe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_1/banking/SavingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_1/banking/TestBanking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_2/banking/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_2/banking/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_2/banking/CheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_2/banking/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_2/banking/ReadMe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_2/banking/SavingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank5_2/banking/TestBanking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank6/banking/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank6/banking/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank6/banking/CheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank6/banking/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank6/banking/ReadMe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank6/banking/SavingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank6/banking/TestBanking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank7/banking/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank7/banking/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank7/banking/CheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank7/banking/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank7/banking/OverdraftException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank7/banking/ReadMe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank7/banking/SavingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank7/banking/TestBanking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank8/banking/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank8/banking/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank8/banking/CheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank8/banking/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank8/banking/OverdraftException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank8/banking/ReadMe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank8/banking/SavingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/project/banking/bank8/banking/TestBanking.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_1HelloWorld.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/_1HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,92 +89,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../log-processor" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../valar-morghulis" value="PREVIEW" />
-      </map>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/_1HelloWorld.java" />
-        <option value="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/知识点.md" />
-        <option value="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank4/banking/Account.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="848" />
-  </component>
+  <component name="ProjectId" id="1TK7RhZHa70dbJ7YpVliDGJTOaS" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaEEStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaEEStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaEEStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSE1_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaEEStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSE1_1" type="462c0819:PsiDirectoryNode" />
-              <item name="_1basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaEEStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaSE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSE1_1" type="462c0819:PsiDirectoryNode" />
-              <item name="_1basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaSE/src/JavaSE" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -126,7 +110,11 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavaSE/src/JavaSE" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavaSE/src/JavaSE" />
       <recent name="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project" />
       <recent name="$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/resource" />
     </key>
@@ -146,22 +134,16 @@
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="JavaEEStudy" />
@@ -172,28 +154,18 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -213,6 +185,8 @@
       <workItem from="1554689020879" duration="718000" />
       <workItem from="1554955624153" duration="3000" />
       <workItem from="1555057720923" duration="266000" />
+      <workItem from="1573196928374" duration="200000" />
+      <workItem from="1573197761965" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="basic">
       <created>1553233455251</created>
@@ -245,141 +219,26 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5628000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="848" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="PlantUML" order="3" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4207723" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26967096" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic" />
     <MESSAGE value="自动转换" />
     <option name="LAST_COMMIT_MESSAGE" value="自动转换" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/_1HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/_1HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/基础知识点.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-80">
-            <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank5_2/banking/TestBanking.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank5_1/banking/Bank.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank7/banking/CheckingAccount.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank1/banking/TestBanking.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank8/banking/CheckingAccount.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank8/banking/SavingAccount.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank5_0/banking/Customer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank4/banking/Bank.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank4/banking/Account.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank3/banking/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank2/banking/TestBanking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="7" column="115" lean-forward="true" selection-start-line="7" selection-start-column="115" selection-end-line="7" selection-end-column="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/project/banking/bank7/banking/Bank.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSE/src/JavaSE1_1/_1basic/src/_1HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
